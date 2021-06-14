@@ -1,2 +1,2 @@
-# r3exercises
+# r3_exercises
 r3 training
